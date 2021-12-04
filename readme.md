@@ -1,0 +1,1 @@
+This project aims to provide recipes that are from the Philippines. I will be showing the skills I have learned from The Odin Project.
